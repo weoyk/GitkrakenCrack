@@ -54,16 +54,21 @@ yarn gitcracken patcher
 
 
 GitKraken 下载方式
+
 最新版
 https://www.gitkraken.com/download
+
 6.5.1
 最后一个免费支持私有仓库的版本6.5.1
+
 exe: https://release.axocdn.com/win64/GitKrakenSetup-6.5.1.exe
 deb: https://release.axocdn.com/linux/GitKraken-v6.5.1.deb
 rpm: https://release.axocdn.com/linux/GitKraken-v6.5.1.rpm
 tar.gz: https://release.axocdn.com/linux/GitKraken-v6.5.1.tar.gz
+
 下载参考
 将下面的x.x.x改为你想要下载的版本
+
 exe: https://release.axocdn.com/windows/GitKrakenSetup-x.x.x.exe (9.11.0~10.0.1)
 exe: https://release.axocdn.com/win64/GitKrakenSetup-x.x.x.exe (~9.11.0)
 deb: https://release.axocdn.com/linux/GitKraken-vx.x.x.deb
